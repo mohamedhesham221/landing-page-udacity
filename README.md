@@ -1,15 +1,49 @@
-## Landing Page Project
-### Table of Contents
+# Landing Page Project
 
-    -Instructions
+> This is a solution to the landing page project udacity
+## Table of contents
 
-#### Instructions
+- [Overview](#overview)
+- [The challenge](#the-challenge)
+- [Screenshot](#screenshot)
+- [Links](#links)
+- [Built with](#built-with)
+- [What I learned](#what-i-learned)
+- [Useful resources](#useful-resources)
+- [Author](#author)
 
-The starter project has some HTML and CSS styling to display a static version of the Landing Page project. You'll need to convert this project from a static project to an interactive one. This will require modifying the HTML and CSS files, but primarily the JavaScript file.
 
-To get started, open js/app.js and start building out the app's functionality
+## Overview
 
-For specific, detailed instructions, look at the project instructions in the Udacity Classroom.
+### The challenge
 
-## solution
-[Live Preview](https://landing-page-udacity2022.netlify.app/)
+> build a multi-section landing page, with a dynamically updating navigational menu based on the amount of content that is added to the page.
+
+## Screenshot
+
+![](./imgs/screenshot.jpg)
+
+## Links
+
+- Solution URL: [Landing page](https://landing-page-udacity2022.netlify.app/)
+
+## Built with
+
+- Semantic HTML5 markup
+- CSS
+- Mobile-first workflow
+- Javascript
+
+## What I learned
+-  Build the navigation menu. This will dynamically create a navigation menu based on the sections of the page.
+-  how add and remove class in ```classList``` and how to use ```.getBoundingClientRect()``` to Detect the element location relative to the viewport.
+- how to write a professional ```README.md``` file.
+
+## Useful resources
+
+- [MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript?retiredLocale=ar)
+
+
+## Author
+
+- Linkedin - [Mohamed Hesham](https://www.linkedin.com/in/mohamed-hesham-b7611618a/)
